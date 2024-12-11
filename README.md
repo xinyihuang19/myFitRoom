@@ -1,4 +1,5 @@
 ## myFitRoom: COSC 6480 Experiment AI Final Project
 This is repository for COSC 6480 Experiment AI final project. 
 
-![WechatIMG610](https://github.com/user-attachments/assets/20bf4aa4-d5f3-442e-9384-12e7d85b7c9d)
+
+![fittingRoom1](https://github.com/user-attachments/assets/84b60e43-986e-465a-9742-bdde914a0696)
